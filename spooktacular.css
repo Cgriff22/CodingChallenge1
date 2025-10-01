@@ -1,4 +1,12 @@
 body{
-    background: url("spooky-campground.jpg");
+    font: "sans-serif";
+}
+
+.campground{
+    background-image: url("campers.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    height: 500px;
 }

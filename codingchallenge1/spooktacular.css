@@ -6,3 +6,42 @@ body{
   background-position: center center;
   background-attachment: fixed;
 }
+
+#michael {
+  position: absolute;
+  top: 50px;
+  left: 100px;
+  width: 100px;
+  height: 100px;
+  z-index: 1;
+}
+
+#hiker {
+  position: absolute;
+  bottom: 100px;
+  left: 100px;
+  width: 200px;
+  height: auto; 
+  z-index: 10;  
+}
+
+
+#man{
+  position: absolute;
+  bottom: 0px;
+  left: 400px;
+  width: 200px;
+  height: 50px;
+  height: auto; 
+  z-index: 10;  
+}
+
+#james{
+  position: absolute;
+  bottom: 0px;
+  right: 100px;
+  width: 200px;
+  height: 50px;
+  height: auto; 
+  z-index: 10;  
+}
